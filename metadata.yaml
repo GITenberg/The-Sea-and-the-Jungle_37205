@@ -1,0 +1,39 @@
+_repo: The-Sea-and-the-Jungle_37205
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tomlinson, H. M. (Henry Major)
+    alias: Tomlinson, Henry Major
+    birthdate: 1873
+    deathdate: 1958
+    gutenberg_agent_id: '5787'
+    url: http://www.gutenberg.org/2009/agents/5787
+    wikipedia: http://en.wikipedia.org/wiki/H._M._Tomlinson
+description: '"The narrative of the voyage of the tramp steamer Capella from Swansea
+  to Para in the Brazils, and thence 2000 miles along the forests of the Amazon and
+  Madeira rivers to the San Antonio falls; afterwards returning to Barbados for orders
+  and going by way of Jamaica to Tampa in Florida, where she loaded for home. Done
+  in the years 1909 and 1910."'
+gutenberg_issued: '2011-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37205'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Amazon River Region -- Description and travel'
+- !lcsh 'Wilderness areas -- Amazon River Region'
+- !lcsh 'Tomlinson, H. M. (Henry Major), 1873-1958 -- Diaries'
+- !lcsh 'Capella (Ship)'
+- !lcsh 'Ocean travel -- History -- 20th century'
+- !lcsh 'Madeira River (Brazil and Bolivia) -- Description and travel'
+- !lcc 'F2501'
+- !lcsh 'Tomlinson, H. M. (Henry Major), 1873-1958 -- Travel -- Amazon River Region'
+- !lcsh 'Amazon River -- Description and travel'
+title: The Sea and the Jungle
+url: http://www.gutenberg.org/ebooks/37205
